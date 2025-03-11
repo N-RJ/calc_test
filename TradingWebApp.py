@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import datetime
-from .PySimFin import PySimFin
+from PySimFin import PySimFin
 
 # Load Data
 df3=pd.read_csv("sharepricesss.csv")
