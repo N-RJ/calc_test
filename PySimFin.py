@@ -1,7 +1,7 @@
 import requests
 import logging
 from datetime import datetime, timedelta
-from .Exceptions import InvalidFinalDate, InvalidInitialDate
+from Exceptions import InvalidFinalDate, InvalidInitialDate
 from dotenv import load_dotenv
 import os
 
