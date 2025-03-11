@@ -1,0 +1,138 @@
+2025-03-11 20:53:01,225 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/app.log", inode=9334061, flags=10400, id=153595020): is_file, is_inode_meta_mod
+2025-03-11 20:53:01,225 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/app.log', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,696 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,696 - DEBUG - Compression method 0
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'iTXt' 3359 470
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'iDOT' 3841 28
+2025-03-11 20:53:05,696 - DEBUG - b'iDOT' 3841 28 (unknown)
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'IDAT' 3881 16384
+2025-03-11 20:53:05,696 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,697 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,697 - DEBUG - Compression method 0
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'iTXt' 3359 470
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'iDOT' 3841 28
+2025-03-11 20:53:05,697 - DEBUG - b'iDOT' 3841 28 (unknown)
+2025-03-11 20:53:05,697 - DEBUG - STREAM b'IDAT' 3881 16384
+2025-03-11 20:53:05,723 - DEBUG - tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 146 - value: b'                               \x00'
+2025-03-11 20:53:05,723 - DEBUG - tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 178 - value: b'SONY\x00'
+2025-03-11 20:53:05,723 - DEBUG - tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 184 - value: b'ILCE-7M3\x00'
+2025-03-11 20:53:05,723 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-11 20:53:05,723 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 194 - value: b'\x00\x00\x01,\x00\x00\x00\x01'
+2025-03-11 20:53:05,723 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 202 - value: b'\x00\x00\x01,\x00\x00\x00\x01'
+2025-03-11 20:53:05,723 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-03-11 20:53:05,723 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 106 - Data Location: 210 - value: b'Adobe Bridge 2022 (Macintosh)\x00'
+2025-03-11 20:53:05,723 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 118 - Data Location: 240 - value: b'2022:09:18 21:17:00\x00'
+2025-03-11 20:53:05,723 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2025-03-11 20:53:05,723 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x04'
+2025-03-11 20:53:05,724 - DEBUG - tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 146 - value: b'                               \x00'
+2025-03-11 20:53:05,724 - DEBUG - tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 178 - value: b'SONY\x00'
+2025-03-11 20:53:05,724 - DEBUG - tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 184 - value: b'ILCE-7M3\x00'
+2025-03-11 20:53:05,724 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-11 20:53:05,724 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 70 - Data Location: 194 - value: b'\x00\x00\x01,\x00\x00\x00\x01'
+2025-03-11 20:53:05,724 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 82 - Data Location: 202 - value: b'\x00\x00\x01,\x00\x00\x00\x01'
+2025-03-11 20:53:05,724 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-03-11 20:53:05,724 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 106 - Data Location: 210 - value: b'Adobe Bridge 2022 (Macintosh)\x00'
+2025-03-11 20:53:05,724 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 118 - Data Location: 240 - value: b'2022:09:18 21:17:00\x00'
+2025-03-11 20:53:05,724 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2025-03-11 20:53:05,724 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x04'
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,906 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,906 - DEBUG - Compression method 0
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'iTXt' 3359 471
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'iDOT' 3842 28
+2025-03-11 20:53:05,906 - DEBUG - b'iDOT' 3842 28 (unknown)
+2025-03-11 20:53:05,906 - DEBUG - STREAM b'IDAT' 3882 16384
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,907 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,907 - DEBUG - Compression method 0
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'iTXt' 3359 471
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'iDOT' 3842 28
+2025-03-11 20:53:05,907 - DEBUG - b'iDOT' 3842 28 (unknown)
+2025-03-11 20:53:05,907 - DEBUG - STREAM b'IDAT' 3882 16384
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,943 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,943 - DEBUG - Compression method 0
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'iTXt' 3359 470
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'iDOT' 3841 28
+2025-03-11 20:53:05,943 - DEBUG - b'iDOT' 3841 28 (unknown)
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'IDAT' 3881 16384
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,943 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,943 - DEBUG - Compression method 0
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,943 - DEBUG - STREAM b'iTXt' 3359 470
+2025-03-11 20:53:05,944 - DEBUG - STREAM b'iDOT' 3841 28
+2025-03-11 20:53:05,944 - DEBUG - b'iDOT' 3841 28 (unknown)
+2025-03-11 20:53:05,944 - DEBUG - STREAM b'IDAT' 3881 16384
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,956 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,956 - DEBUG - Compression method 0
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'iTXt' 3359 472
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'iDOT' 3843 28
+2025-03-11 20:53:05,956 - DEBUG - b'iDOT' 3843 28 (unknown)
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'IDAT' 3883 16384
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'IHDR' 16 13
+2025-03-11 20:53:05,956 - DEBUG - STREAM b'iCCP' 41 3135
+2025-03-11 20:53:05,956 - DEBUG - iCCP profile name b'ICC Profile'
+2025-03-11 20:53:05,956 - DEBUG - Compression method 0
+2025-03-11 20:53:05,957 - DEBUG - STREAM b'eXIf' 3188 138
+2025-03-11 20:53:05,957 - DEBUG - STREAM b'pHYs' 3338 9
+2025-03-11 20:53:05,957 - DEBUG - STREAM b'iTXt' 3359 472
+2025-03-11 20:53:05,957 - DEBUG - STREAM b'iDOT' 3843 28
+2025-03-11 20:53:05,957 - DEBUG - b'iDOT' 3843 28 (unknown)
+2025-03-11 20:53:05,957 - DEBUG - STREAM b'IDAT' 3883 16384
+2025-03-11 20:54:35,861 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/PySimFin.py", inode=9317709, flags=11400, id=153597860): is_file, is_inode_meta_mod, is_modified
+2025-03-11 20:54:35,861 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/PySimFin.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-03-11 20:54:58,423 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc.4317674672", inode=9376129, flags=19900, id=153598512): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+2025-03-11 20:54:58,423 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc", inode=9376129, flags=10800, id=153598513): is_file, is_renamed
+2025-03-11 20:54:58,424 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc", inode=9375749, flags=10800, id=153598514): is_file, is_renamed
+2025-03-11 20:54:58,424 - DEBUG - queue_event FileCreatedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc.4317674672', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-03-11 20:54:58,424 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:54:58,425 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc.4317674672', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-03-11 20:54:58,425 - DEBUG - Destination event for rename is NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc", inode=9376129, flags=10800, id=153598513)
+2025-03-11 20:54:58,426 - DEBUG - queue_event FileMovedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc.4317674672', dest_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+2025-03-11 20:54:58,426 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:54:58,426 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:54:58,426 - DEBUG - queue_event FileDeletedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/PySimFin.cpython-312.pyc', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+2025-03-11 20:54:58,427 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:58:54,395 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc.4376689968", inode=9376450, flags=19900, id=153603225): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+2025-03-11 20:58:54,395 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc", inode=9376450, flags=10800, id=153603226): is_file, is_renamed
+2025-03-11 20:58:54,395 - DEBUG - queue_event FileCreatedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc.4376689968', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-03-11 20:58:54,396 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:58:54,396 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc.4376689968', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-03-11 20:58:54,396 - DEBUG - Destination event for rename is NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc", inode=9376450, flags=10800, id=153603226)
+2025-03-11 20:58:54,396 - DEBUG - queue_event FileMovedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc.4376689968', dest_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/__init__.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+2025-03-11 20:58:54,396 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:58:54,397 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:59:12,831 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc.4386749872", inode=9376457, flags=19900, id=153603303): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+2025-03-11 20:59:12,832 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc", inode=9376457, flags=10800, id=153603304): is_file, is_renamed
+2025-03-11 20:59:12,832 - DEBUG - queue_event FileCreatedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc.4386749872', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+2025-03-11 20:59:12,832 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:59:12,832 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc.4386749872', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-03-11 20:59:12,833 - DEBUG - Destination event for rename is NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc", inode=9376457, flags=10800, id=153603304)
+2025-03-11 20:59:12,833 - DEBUG - queue_event FileMovedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc.4386749872', dest_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__/TradingWebApp.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+2025-03-11 20:59:12,833 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:59:12,833 - DEBUG - queue_event DirModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+2025-03-11 20:59:52,027 - DEBUG - NativeEvent(path="/Users/nitinjangir/Desktop/Streamlit/TradingWebApp.py", inode=9317716, flags=11400, id=153603444): is_file, is_inode_meta_mod, is_modified
+2025-03-11 20:59:52,028 - DEBUG - queue_event FileModifiedEvent(src_path='/Users/nitinjangir/Desktop/Streamlit/TradingWebApp.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
